@@ -1,6 +1,7 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=000000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cafer+K%C3%B6%C5%9Fker" alt="Typing SVG" /></a>
+<h1  align="center" <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=03090B&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cafer+K%C3%B6%C5%9Fker" alt="Typing SVG" /></a></h1>
 <h3 align="center">I'm currently working on [Python,Java,JavaScript,React]</h3>
+
 
 - 🔭 I’m currently working on **Üretken Akademi**
 
