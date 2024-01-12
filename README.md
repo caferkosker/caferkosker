@@ -1,5 +1,5 @@
 [![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<h1 align="center">Hi 👋, I'm Cafer Köşker</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cafer+K%C3%B6%C5%9Fker" alt="Typing SVG" /></a>
 <h3 align="center">I'm currently working on [Python,Java,JavaScript,React]</h3>
 
 - 🔭 I’m currently working on **Üretken Akademi**
