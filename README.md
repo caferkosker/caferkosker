@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on **Üretken Akademi**
 
 - 📫 How to reach me **caferkoskerr@gmail.com**
 
