@@ -1,10 +1,3 @@
-![MasterHead](https://raw.githubusercontent.com/mosh3eb/Portfolio_Page/main/images/bg.gif)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=000000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Cafer+Kosker" alt="Typing SVG" /></a></h1>
-<h3 align="center">I'm currently working on [Python,Java,Data Science,React]</h3>
-<img align="right" width="440" height="310" src="https://camo.githubusercontent.com/b9d2cf6f810f95b5fb495edca02c307d492c32f71a62ab6c801e416fa5492338/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966" alt="">
-
-
-
 
 - 📫 How to reach me **caferkoskerr@gmail.com**
 
